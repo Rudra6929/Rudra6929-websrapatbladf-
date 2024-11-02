@@ -1,0 +1,9 @@
+{
+	"name": "webscrpetlproj1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3325860d-d6fc-4dfa-87f9-53613ab4bde6",
+		"tenantId": "84c31ca0-ac3b-4eae-ad11-519d80233e6f"
+	}
+}
